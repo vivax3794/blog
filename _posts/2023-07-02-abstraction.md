@@ -92,8 +92,6 @@ Here the `dataclass` decorator abstracts away the constructor (And a lot more!).
 
 ### But, but performance! 
 
-God I hate these people... okay performance.
-
 Well, it depends on the abstractions and the lang, I would argue the kind of abstraction I showed above is very normal already, splitting up your functions is not a new thing, even if your function is only called from one place, it is still fine to be a function. 
 
 Functions don't only make reuse easier, it makes thinking about your code easier. And honestly, computers are so freaking fast now, is one function call really gonna matter? 
