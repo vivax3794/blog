@@ -31,9 +31,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-domain: vivax3794.github.io
-url: https://vivax3794.github.io
-baseurl: "/blog"
+domain: blog.vivax3794.com
+url: https://blog.vivax3794.com
+baseurl: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
