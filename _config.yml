@@ -27,13 +27,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vivax3794
 
 # Build settings
-theme: minima
+remote_theme:     sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
 
 domain: vivax3794.github.io
 url: https://vivax3794.github.io
-baseurl: "blog"
+baseurl: "/blog"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
