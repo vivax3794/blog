@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstract, Abstract, Abstract
+title: Thoughts on abstraction
 ---
 
 - [Intro](#intro)
