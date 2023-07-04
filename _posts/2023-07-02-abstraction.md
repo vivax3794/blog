@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thoughts on abstraction
+tags: game-dev bevy python rust
 ---
 
 - [Intro](#intro)
