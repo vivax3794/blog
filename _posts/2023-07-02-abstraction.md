@@ -189,7 +189,7 @@ if bullet.hit(enemy) {
 
 And then different functions can listen to the event to react, like 
 
-```Rust
+```rust
 fn normal_enemy(mut enemies: Query<..., With<NormalEnemy>>, event_reader: ...) { ... }
 fn normal_enemy(mut enemies: Query<..., With<SpecialEnemy>>, event_reader: ...) { ... }
 ```
